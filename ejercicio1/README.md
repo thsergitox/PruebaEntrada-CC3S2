@@ -1,6 +1,6 @@
 # Dijkstra Algorithm
 
-In this project, we implemented a very popular searching algorithm.
+In this project, we implemented a very popular searching algorithm. Including negative weights.
 
 ## Pre-requisites
 

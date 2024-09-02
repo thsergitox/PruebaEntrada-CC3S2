@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "DIjkstra Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thsergitox/PruebaEntrada-CC3S2.git"
+  },
+  "author": "Sergio Pezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thsergitox/PruebaEntrada-CC3S2/issues"
+  },
+  "homepage": "https://github.com/thsergitox/PruebaEntrada-CC3S2#readme"
+}

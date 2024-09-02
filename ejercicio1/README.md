@@ -13,3 +13,10 @@ To run this project, you can execute
 | Command       | Action       |
 | ------------- | ------------ |
 | npm run start | Run index.js |
+
+If everything is ok, the ouput should look like this
+
+```
+
+{ A: 0, B: 1, C: 3, D: 4 }
+```

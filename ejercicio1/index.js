@@ -6,6 +6,14 @@ const graph = {
     D: { B: 5, C: 1 }
 };
 
+/**
+@function dijkstra
+Finds the shortest distance from a start node to all other nodes in a graph using Dijkstra's algorithm.
+@param {object} graph - The graph represented as an adjacency list.
+@param {string} start - The starting node.
+@return {object} An object containing the shortest distance from the start node to all other nodes.
+**/
+// Let's suppose that the graph can use negative weights
 function dijkstra(graph, start) {
     // Create an object to store the shortest distance from the start node to every other node
     let distances = {};
